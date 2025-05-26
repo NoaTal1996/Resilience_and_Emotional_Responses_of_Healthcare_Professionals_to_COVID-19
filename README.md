@@ -8,7 +8,7 @@ Importantly, no individual-level data is provided as part of this repository. De
   
 ## Fig 1: Emotion Trends
 
-This folder contains data used to generate Figure 1 in the main paper.
+The `data/Fig_1` folder contains data used to generate Figure 1 in the main paper.
 
 Both files include monthly emotion scores (means, standard deviations, confidence intervals) and a parsed `date` column, ranging from **2019-01-01** to **2022-05-01**.
 
