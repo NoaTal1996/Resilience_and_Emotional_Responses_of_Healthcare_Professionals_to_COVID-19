@@ -26,6 +26,20 @@ hcp_stats_graph2.csv : Data for health care professionals (HCPs)
 nonhcp_stats_graph2.csv : Data for the general population (non-HCPs)
 
 
+## Fig 4: Hashtag Category Trends by Emotion
+
+The `data/Fig_4` folder contains data used to generate Figure 4 in the main paper.
+
+Each file is a pickled Python dictionary, where:
+- The **keys** are emotions: `joy`, `sadness`, `anger`, `fear`  
+- The **values** are DataFrames containing tweet counts grouped by `date` and `category`
+
+These counts represent the number of tweets in each category extracted from the top 10% most emotionally expressive tweets for that emotion.
+
+### Files:
+- `category_non_hcp.pkl`: Dictionary for the general population (non-HCPs)  
+- `category_hcp.pkl`: Dictionary for health care professionals (HCPs)
+
 
 
 
