@@ -42,7 +42,7 @@ These counts represent the number of tweets in each category extracted from the 
 
 ### 📊 Cohen's d Effect Sizes by Phase and Emotion
 
-This folder contains aggregated data used to compute **Cohen's d effect sizes** for emotional expressions (joy, sadness, anger, fear, surprise, disgust) across different COVID-19 phases. The effect sizes quantify the magnitude of emotional change relative to the baseline period ("Before COVID Phases").
+The `data/Cohen_d` contains aggregated data used to compute **Cohen's d effect sizes** for emotional expressions (joy, sadness, anger, fear, surprise, disgust) across different COVID-19 phases. The effect sizes quantify the magnitude of emotional change relative to the baseline period ("Before COVID Phases").
 
 Each `.pkl` file contains a `pandas.DataFrame` with the following columns:
 
