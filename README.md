@@ -26,6 +26,16 @@ hcp_stats_graph2.csv : Data for health care professionals (HCPs)
 nonhcp_stats_graph2.csv : Data for the general population (non-HCPs)
 
 
+## Fig 4: Hashtag Category Trends by Emotion
+
+The `data/Fig_4` folder contains data used to generate Figure 4 in the main paper.
+
+Each file includes quarterly frequencies of hashtag categories extracted from the top 10% most emotionally expressive tweets.  
+Tweets are grouped by `date` and `category`, with counts representing the number of tweets per category.
+
+- `hcp_hashtag_counts.csv`: Data for health care professionals (HCPs)  
+- `nonhcp_hashtag_counts.csv`: Data for the general population (non-HCPs)
+
 
 
 
