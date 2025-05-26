@@ -12,8 +12,8 @@ The `data/Fig_1` folder contains data used to generate Figure 1 in the main pape
 
 Both files include monthly emotion scores (means, standard deviations, confidence intervals) and a parsed `date` column, ranging from **2019-01-01** to **2022-05-01**.
 
-- `hcp_graph1.csv`: Data for health care professionals (HCPs)
-- `nonhcp_graph1.csv`: Data for the general population (non-HCPs)
+- `hcp_graph1.csv`: Data for HCPs
+- `nonhcp_graph1.csv`: Data for the non-HCPs
 
 
 ## Fig 2: Emotion Trends by Phase
@@ -21,9 +21,9 @@ The data/Fig_2 folder contains data used to generate Figure 2 in the main paper.
 
 Both files include emotion scores aggregated by pandemic phase (mean, standard deviation, 95% confidence interval) and number of unique users per phase.
 
-hcp_stats_graph2.csv : Data for health care professionals (HCPs)
+hcp_stats_graph2.csv : Data for HCPs
 
-nonhcp_stats_graph2.csv : Data for the general population (non-HCPs)
+nonhcp_stats_graph2.csv : Data for the non-HCPs
 
 
 ## Fig 4: Hashtag Category Trends by Emotion
@@ -37,8 +37,8 @@ Each file is a pickled Python dictionary, where:
 These counts represent the number of tweets in each category extracted from the top 10% most emotionally expressive tweets for that emotion.
 
 ### Files:
-- `category_non_hcp.pkl`: Dictionary for the general population (non-HCPs)  
-- `category_hcp.pkl`: Dictionary for health care professionals (HCPs)
+- `category_non_hcp.pkl`: Dictionary for the non-HCPs 
+- `category_hcp.pkl`: Dictionary for HCPs
 
 ### 📊 Cohen's d Effect Sizes by Phase and Emotion
 
@@ -54,8 +54,8 @@ Each `.pkl` file contains a `pandas.DataFrame` with the following columns:
 - `<emotion>_cohen_d_ci`: 95% confidence interval for the Cohen's d value (tuple).
 
 **Files:**
-- `hcp_stats_cohend.pkl`: Statistics and effect sizes for the **Health Care Professional (HCP)** population.
-- `nonhcp_cohend.pkl`: Statistics and effect sizes for the **General (non-HCP)** population.
+- `hcp_stats_cohend.pkl`: Statistics and effect sizes for the HCP population.
+- `nonhcp_cohend.pkl`: Statistics and effect sizes for the non-HCP population.
 
 
 
