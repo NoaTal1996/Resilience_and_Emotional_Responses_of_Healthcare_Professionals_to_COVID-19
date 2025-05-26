@@ -58,6 +58,21 @@ Each `.pkl` file contains a `pandas.DataFrame` with the following columns:
 - `nonhcp_cohend.pkl`: Statistics and effect sizes for the non-HCP population.
 
 
+### 🇺🇸 `owid-covid-data.csv` – U.S. COVID-19 Time Series Data
+
+This CSV file contains daily COVID-19 data for the United States, extracted from the global dataset by Our World in Data.
+
+**Key columns include:**
+- `date`: Observation date  
+- `new_cases`, `new_deaths`: Daily reported cases and deaths  
+- `new_cases_smoothed`, `new_deaths_smoothed`: 7-day smoothed values  
+- `total_cases`, `total_deaths`: Cumulative totals  
+- `hosp_patients`, `icu_patients`: Current hospitalized and ICU patient counts  
+- `weekly_hosp_admissions`, `weekly_icu_admissions`: New weekly hospital and ICU admissions  
+- Demographics and healthcare capacity: `life_expectancy`, `hospital_beds_per_thousand`, `male_smokers`, etc.  
+- Excess mortality estimates: `excess_mortality_cumulative`, `excess_mortality_per_million`, etc.
+
+Note: Some fields contain missing values (NaN), especially in early stages of the pandemic.
 
 
 
