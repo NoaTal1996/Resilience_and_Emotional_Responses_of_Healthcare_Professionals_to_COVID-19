@@ -5,6 +5,19 @@ Importantly, no individual-level data is provided as part of this repository. De
 
 
 * The folder graphics contains all figures shown in the paper.
+  
+## Fig 1: Emotion Trends
+
+This folder contains data used to generate Figure 1 in the main paper.
+
+Both files include monthly emotion scores (means, standard deviations, confidence intervals) and a parsed `date` column.
+
+- `hcp_graph1.csv`: Data for health care professionals (HCPs)
+- `nonhcp_graph1.csv`: Data for the general population (non-HCPs)
+
+
+
+
 
 
 ## 🔗 Model Download
