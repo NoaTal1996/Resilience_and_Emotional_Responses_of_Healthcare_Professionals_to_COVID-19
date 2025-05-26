@@ -10,7 +10,7 @@ Importantly, no individual-level data is provided as part of this repository. De
 
 This folder contains data used to generate Figure 1 in the main paper.
 
-Both files include monthly emotion scores (means, standard deviations, confidence intervals) and a parsed `date` column.
+Both files include monthly emotion scores (means, standard deviations, confidence intervals) and a parsed `date` column, ranging from **2019-01-01** to **2022-05-01**.
 
 - `hcp_graph1.csv`: Data for health care professionals (HCPs)
 - `nonhcp_graph1.csv`: Data for the general population (non-HCPs)
