@@ -40,6 +40,26 @@ These counts represent the number of tweets in each category extracted from the 
 - `category_non_hcp.pkl`: Dictionary for the general population (non-HCPs)  
 - `category_hcp.pkl`: Dictionary for health care professionals (HCPs)
 
+### 📊 Cohen's d Effect Sizes by Phase and Emotion
+
+This folder contains aggregated data used to compute **Cohen's d effect sizes** for emotional expressions (joy, sadness, anger, fear, surprise, disgust) across different COVID-19 phases. The effect sizes quantify the magnitude of emotional change relative to the baseline period ("Before COVID Phases").
+
+Each `.pkl` file contains a `pandas.DataFrame` with the following columns:
+
+- `phase`: One of the defined study periods (e.g., Phase 1, Phase 2, etc.).
+- `unique_users`: Number of unique users per phase.
+- `<emotion>_mean`, `<emotion>_std`: Mean and standard deviation of each emotion.
+- `<emotion>_95ci`: 95% confidence interval for the emotion score (tuple).
+- `<emotion>_cohen_d`: Cohen's d effect size, comparing each phase to the baseline.
+- `<emotion>_cohen_d_ci`: 95% confidence interval for the Cohen's d value (tuple).
+
+**Files:**
+- `hcp_stats_cohend.pkl`: Statistics and effect sizes for the **Health Care Professional (HCP)** population.
+- `nonhcp_cohend.pkl`: Statistics and effect sizes for the **General (non-HCP)** population.
+
+
+
+
 
 
 
