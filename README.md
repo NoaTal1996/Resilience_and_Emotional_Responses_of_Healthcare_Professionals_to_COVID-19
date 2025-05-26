@@ -16,6 +16,15 @@ Both files include monthly emotion scores (means, standard deviations, confidenc
 - `nonhcp_graph1.csv`: Data for the general population (non-HCPs)
 
 
+## Fig 2: Emotion Trends by Phase
+The data/Fig_2 folder contains data used to generate Figure 2 in the main paper.
+
+Both files include emotion scores aggregated by pandemic phase (mean, standard deviation, 95% confidence interval) and number of unique users per phase.
+
+hcp_stats_graph2.csv : Data for health care professionals (HCPs)
+
+nonhcp_stats_graph2.csv : Data for the general population (non-HCPs)
+
 
 
 
