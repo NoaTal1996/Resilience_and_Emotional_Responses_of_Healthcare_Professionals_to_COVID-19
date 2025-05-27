@@ -4,7 +4,8 @@ This repository contains data and code for replication of the results presented 
 Importantly, no individual-level data is provided as part of this repository. De-identified individual-level data can be attained for IRB-approved uses under the terms and conditions specified in the paper. 
 
 
-* The folder graphics contains all figures shown in the paper.
+* The folder `graphics` contains all figures shown in the paper.
+* The `code` folder contains all Python scripts used to generate the figures 
   
 ## Fig 1: Emotion Trends
 
