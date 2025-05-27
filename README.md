@@ -25,6 +25,24 @@ hcp_stats_graph2.csv : Data for HCPs
 
 nonhcp_stats_graph2.csv : Data for the non-HCPs
 
+### Fig 3: Correlation Between Emotions and Pandemic Progression
+
+The `data/Fig_3` folder contains data used to generate Figure 3 in the main paper.
+
+Each `.pkl` file contains **weekly averages** of six basic emotions—**joy, sadness, anger, surprise, disgust, and fear**—for each population group:
+- `weekly_stats_data_HCPs.pkl`: Data for HCPs
+- `weekly_stats_data_NonHCPs.pkl`: Data for the non-HCP
+
+The data is indexed by ISO week start date (`date`) and includes the following columns:
+- `avg_joy`
+- `avg_sadness`
+- `avg_anger`
+- `avg_surprise`
+- `avg_disgust`
+- `avg_fear`
+
+These files were used to analyze the **correlation between population-level emotions and the progression of the COVID-19 pandemic** on a weekly basis.
+
 
 ## Fig 4: Hashtag Category Trends by Emotion
 
@@ -71,6 +89,7 @@ This CSV file contains daily COVID-19 data for the United States, extracted from
 - `weekly_hosp_admissions`, `weekly_icu_admissions`: New weekly hospital and ICU admissions  
 - Demographics and healthcare capacity: `life_expectancy`, `hospital_beds_per_thousand`, `male_smokers`, etc.  
 - Excess mortality estimates: `excess_mortality_cumulative`, `excess_mortality_per_million`, etc.
+📥 [Download Data (Google Drive)]([https://drive.google.com/file/d/1OtI9ZQOkX3xgTiNTQdRoUHUsmPz7l3IP/view?usp=sharing](https://drive.google.com/file/d/15Gv8XX5FgwJpn15vikh9NyIa2W127yyY/view?usp=sharing))
 
 
 
@@ -82,6 +101,9 @@ This CSV file contains daily COVID-19 data for the United States, extracted from
 You can download the trained model from the following link:
 
 📥 [Download Model (Google Drive)](https://drive.google.com/file/d/1OtI9ZQOkX3xgTiNTQdRoUHUsmPz7l3IP/view?usp=sharing)
+
+
+
 
 
 
