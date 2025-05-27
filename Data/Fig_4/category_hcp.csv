@@ -1,0 +1,534 @@
+emotion,date,category,count
+joy,2019-01-31,Others,7639
+joy,2019-01-31,Medical Conference,107
+joy,2019-01-31,Medicine,86
+joy,2019-01-31,TV,18
+joy,2019-01-31,Politics,2
+joy,2019-01-31,Sports,2
+joy,2019-01-31,Social,1
+joy,2019-04-30,Others,24494
+joy,2019-04-30,Medicine,231
+joy,2019-04-30,Medical Conference,212
+joy,2019-04-30,TV,54
+joy,2019-04-30,Politics,25
+joy,2019-04-30,Sports,8
+joy,2019-04-30,Promotions,6
+joy,2019-04-30,Social,3
+joy,2019-07-31,Others,25481
+joy,2019-07-31,Medicine,267
+joy,2019-07-31,Medical Conference,129
+joy,2019-07-31,TV,27
+joy,2019-07-31,Politics,10
+joy,2019-07-31,Memorial,7
+joy,2019-07-31,Sports,6
+joy,2019-07-31,Social,4
+joy,2019-07-31,Promotions,1
+joy,2019-07-31,War,1
+joy,2019-10-31,Others,26545
+joy,2019-10-31,Medicine,267
+joy,2019-10-31,Sports,17
+joy,2019-10-31,Politics,11
+joy,2019-10-31,Medical Conference,5
+joy,2019-10-31,TV,5
+joy,2019-10-31,Social,4
+joy,2019-10-31,War,3
+joy,2019-10-31,Memorial,2
+joy,2019-10-31,Disasters,1
+joy,2019-10-31,Social Media,1
+joy,2020-01-31,Others,24979
+joy,2020-01-31,Medicine,216
+joy,2020-01-31,Sports,133
+joy,2020-01-31,Medical Conference,98
+joy,2020-01-31,Promotions,13
+joy,2020-01-31,Social,6
+joy,2020-01-31,TV,4
+joy,2020-01-31,Social Media,3
+joy,2020-01-31,Politics,2
+joy,2020-01-31,COVID-19,1
+joy,2020-01-31,Leisure,1
+joy,2020-01-31,War,1
+joy,2020-04-30,Others,27804
+joy,2020-04-30,COVID-19,498
+joy,2020-04-30,Medicine,217
+joy,2020-04-30,Sports,16
+joy,2020-04-30,TV,12
+joy,2020-04-30,Social Media,9
+joy,2020-04-30,Politics,7
+joy,2020-04-30,Promotions,5
+joy,2020-04-30,Leisure,1
+joy,2020-04-30,Medical Conference,1
+joy,2020-07-31,Others,25801
+joy,2020-07-31,COVID-19,240
+joy,2020-07-31,Medicine,212
+joy,2020-07-31,Politics,36
+joy,2020-07-31,Social Media,7
+joy,2020-07-31,Memorial,6
+joy,2020-07-31,Music,5
+joy,2020-07-31,Sports,2
+joy,2020-07-31,Medical Conference,1
+joy,2020-07-31,TV,1
+joy,2020-10-31,Others,26586
+joy,2020-10-31,Medicine,249
+joy,2020-10-31,COVID-19,125
+joy,2020-10-31,Music,60
+joy,2020-10-31,Politics,54
+joy,2020-10-31,Sports,13
+joy,2020-10-31,Promotions,12
+joy,2020-10-31,Medical Conference,1
+joy,2020-10-31,Memorial,1
+joy,2020-10-31,Social,1
+joy,2021-01-31,Others,27130
+joy,2021-01-31,Medicine,178
+joy,2021-01-31,Music,151
+joy,2021-01-31,COVID-19,128
+joy,2021-01-31,Politics,37
+joy,2021-01-31,Social,37
+joy,2021-01-31,Social Media,9
+joy,2021-01-31,Promotions,4
+joy,2021-01-31,War,4
+joy,2021-01-31,Medical Conference,3
+joy,2021-01-31,Sports,3
+joy,2021-04-30,Others,24458
+joy,2021-04-30,Medicine,207
+joy,2021-04-30,COVID-19,95
+joy,2021-04-30,Music,84
+joy,2021-04-30,Medical Conference,8
+joy,2021-04-30,Social Media,4
+joy,2021-04-30,Sports,4
+joy,2021-04-30,Politics,3
+joy,2021-04-30,Promotions,2
+joy,2021-04-30,Social,2
+joy,2021-07-31,Others,20397
+joy,2021-07-31,Medicine,158
+joy,2021-07-31,Medical Conference,77
+joy,2021-07-31,Music,75
+joy,2021-07-31,COVID-19,29
+joy,2021-07-31,Memorial,4
+joy,2021-07-31,Sports,4
+joy,2021-07-31,Social Media,3
+joy,2021-07-31,Politics,2
+joy,2021-07-31,TV,1
+joy,2021-10-31,Others,20168
+joy,2021-10-31,Medicine,141
+joy,2021-10-31,Medical Conference,85
+joy,2021-10-31,Music,54
+joy,2021-10-31,COVID-19,45
+joy,2021-10-31,Sports,27
+joy,2021-10-31,Social Media,3
+joy,2021-10-31,Memorial,2
+joy,2021-10-31,Politics,2
+joy,2021-10-31,Promotions,1
+joy,2022-01-31,Others,20042
+joy,2022-01-31,Medical Conference,208
+joy,2022-01-31,Medicine,115
+joy,2022-01-31,Sports,76
+joy,2022-01-31,Social,63
+joy,2022-01-31,COVID-19,50
+joy,2022-01-31,Music,42
+joy,2022-01-31,Social Media,3
+joy,2022-01-31,Memorial,1
+joy,2022-01-31,Politics,1
+joy,2022-04-30,Others,18664
+joy,2022-04-30,Medicine,100
+joy,2022-04-30,Medical Conference,90
+joy,2022-04-30,War,41
+joy,2022-04-30,Music,33
+joy,2022-04-30,COVID-19,12
+joy,2022-04-30,Sports,12
+joy,2022-04-30,Social Media,2
+joy,2022-04-30,Memorial,1
+joy,2022-04-30,Politics,1
+joy,2022-07-31,Others,7173
+joy,2022-07-31,Medical Conference,98
+joy,2022-07-31,Medicine,31
+joy,2022-07-31,COVID-19,4
+joy,2022-07-31,Music,4
+joy,2022-07-31,Memorial,3
+joy,2022-07-31,Politics,1
+joy,2022-07-31,Sports,1
+joy,2022-07-31,War,1
+sadness,2019-01-31,Others,7270
+sadness,2019-01-31,Medicine,62
+sadness,2019-01-31,Memorial,32
+sadness,2019-01-31,Politics,18
+sadness,2019-01-31,TV,17
+sadness,2019-01-31,Medical Conference,13
+sadness,2019-01-31,Sports,2
+sadness,2019-01-31,Law,1
+sadness,2019-01-31,Social,1
+sadness,2019-04-30,Others,18653
+sadness,2019-04-30,Medicine,236
+sadness,2019-04-30,Politics,34
+sadness,2019-04-30,Medical Conference,21
+sadness,2019-04-30,TV,20
+sadness,2019-04-30,Social,13
+sadness,2019-04-30,Memorial,2
+sadness,2019-04-30,COVID-19,1
+sadness,2019-04-30,Sports,1
+sadness,2019-04-30,War,1
+sadness,2019-07-31,Others,19803
+sadness,2019-07-31,Medicine,186
+sadness,2019-07-31,Memorial,46
+sadness,2019-07-31,Social,12
+sadness,2019-07-31,Medical Conference,7
+sadness,2019-07-31,TV,7
+sadness,2019-07-31,Politics,3
+sadness,2019-10-31,Others,21497
+sadness,2019-10-31,Medicine,161
+sadness,2019-10-31,Memorial,30
+sadness,2019-10-31,Social,28
+sadness,2019-10-31,Politics,15
+sadness,2019-10-31,Disasters,13
+sadness,2019-10-31,TV,2
+sadness,2019-10-31,Sports,1
+sadness,2019-10-31,War,1
+sadness,2020-01-31,Others,21166
+sadness,2020-01-31,Medicine,174
+sadness,2020-01-31,COVID-19,19
+sadness,2020-01-31,Memorial,11
+sadness,2020-01-31,Medical Conference,10
+sadness,2020-01-31,Sports,10
+sadness,2020-01-31,Politics,8
+sadness,2020-01-31,Social,8
+sadness,2020-01-31,War,5
+sadness,2020-01-31,Law,1
+sadness,2020-04-30,Others,35576
+sadness,2020-04-30,COVID-19,2790
+sadness,2020-04-30,Medicine,252
+sadness,2020-04-30,Politics,14
+sadness,2020-04-30,Memorial,4
+sadness,2020-04-30,Medical Conference,1
+sadness,2020-04-30,Social,1
+sadness,2020-04-30,Social Media,1
+sadness,2020-07-31,Others,33217
+sadness,2020-07-31,COVID-19,1191
+sadness,2020-07-31,Medicine,185
+sadness,2020-07-31,Politics,144
+sadness,2020-07-31,Memorial,19
+sadness,2020-07-31,Social,4
+sadness,2020-07-31,War,3
+sadness,2020-07-31,Social Media,2
+sadness,2020-10-31,Others,31555
+sadness,2020-10-31,COVID-19,880
+sadness,2020-10-31,Medicine,138
+sadness,2020-10-31,Politics,64
+sadness,2020-10-31,Memorial,26
+sadness,2020-10-31,Social,2
+sadness,2020-10-31,Social Media,2
+sadness,2020-10-31,Sports,2
+sadness,2020-10-31,War,2
+sadness,2020-10-31,Music,1
+sadness,2021-01-31,Others,30087
+sadness,2021-01-31,COVID-19,861
+sadness,2021-01-31,Medicine,122
+sadness,2021-01-31,Politics,38
+sadness,2021-01-31,Social,12
+sadness,2021-01-31,Memorial,8
+sadness,2021-01-31,War,2
+sadness,2021-01-31,Law,1
+sadness,2021-01-31,Medical Conference,1
+sadness,2021-01-31,Social Media,1
+sadness,2021-04-30,Others,21843
+sadness,2021-04-30,COVID-19,461
+sadness,2021-04-30,Medicine,142
+sadness,2021-04-30,Politics,16
+sadness,2021-04-30,Social,4
+sadness,2021-04-30,Social Media,4
+sadness,2021-04-30,Memorial,2
+sadness,2021-07-31,Others,17536
+sadness,2021-07-31,COVID-19,292
+sadness,2021-07-31,Medicine,163
+sadness,2021-07-31,Memorial,37
+sadness,2021-07-31,Social,10
+sadness,2021-07-31,Medical Conference,6
+sadness,2021-07-31,Politics,5
+sadness,2021-07-31,Social Media,2
+sadness,2021-10-31,Others,21208
+sadness,2021-10-31,COVID-19,405
+sadness,2021-10-31,Medicine,192
+sadness,2021-10-31,Politics,42
+sadness,2021-10-31,Memorial,33
+sadness,2021-10-31,Sports,3
+sadness,2021-10-31,Medical Conference,2
+sadness,2021-10-31,Music,2
+sadness,2021-10-31,Social,2
+sadness,2021-10-31,Law,1
+sadness,2021-10-31,Social Media,1
+sadness,2021-10-31,War,1
+sadness,2022-01-31,Others,19706
+sadness,2022-01-31,COVID-19,312
+sadness,2022-01-31,Medicine,104
+sadness,2022-01-31,Medical Conference,21
+sadness,2022-01-31,Politics,10
+sadness,2022-01-31,Memorial,8
+sadness,2022-01-31,Social,7
+sadness,2022-01-31,Social Media,6
+sadness,2022-01-31,War,5
+sadness,2022-01-31,Sports,4
+sadness,2022-01-31,Law,2
+sadness,2022-04-30,Others,16759
+sadness,2022-04-30,War,117
+sadness,2022-04-30,COVID-19,84
+sadness,2022-04-30,Medicine,67
+sadness,2022-04-30,Social,9
+sadness,2022-04-30,Medical Conference,5
+sadness,2022-04-30,Social Media,3
+sadness,2022-04-30,Politics,2
+sadness,2022-04-30,Memorial,1
+sadness,2022-07-31,Others,7217
+sadness,2022-07-31,COVID-19,34
+sadness,2022-07-31,Medicine,25
+sadness,2022-07-31,Memorial,18
+sadness,2022-07-31,Disasters,16
+sadness,2022-07-31,Law,9
+sadness,2022-07-31,Politics,9
+sadness,2022-07-31,Medical Conference,8
+sadness,2022-07-31,War,7
+sadness,2022-07-31,Social,2
+sadness,2022-07-31,Social Media,1
+anger,2019-01-31,Others,8835
+anger,2019-01-31,Politics,71
+anger,2019-01-31,TV,26
+anger,2019-01-31,Medicine,20
+anger,2019-01-31,Sports,6
+anger,2019-01-31,Medical Conference,4
+anger,2019-01-31,Memorial,2
+anger,2019-01-31,Social,2
+anger,2019-04-30,Others,18766
+anger,2019-04-30,Politics,132
+anger,2019-04-30,Medicine,43
+anger,2019-04-30,TV,23
+anger,2019-04-30,Medical Conference,5
+anger,2019-04-30,Social,5
+anger,2019-04-30,Sports,2
+anger,2019-04-30,COVID-19,1
+anger,2019-04-30,War,1
+anger,2019-07-31,Others,21133
+anger,2019-07-31,Politics,112
+anger,2019-07-31,Medicine,79
+anger,2019-07-31,TV,7
+anger,2019-07-31,Social,5
+anger,2019-07-31,Sports,3
+anger,2019-07-31,Law,2
+anger,2019-07-31,Memorial,1
+anger,2019-07-31,War,1
+anger,2019-10-31,Others,24098
+anger,2019-10-31,Politics,215
+anger,2019-10-31,Medicine,77
+anger,2019-10-31,Sports,7
+anger,2019-10-31,Social,6
+anger,2019-10-31,Disasters,3
+anger,2019-10-31,War,3
+anger,2019-10-31,Memorial,2
+anger,2020-01-31,Others,24265
+anger,2020-01-31,Medicine,136
+anger,2020-01-31,Politics,94
+anger,2020-01-31,Sports,51
+anger,2020-01-31,War,12
+anger,2020-01-31,Medical Conference,3
+anger,2020-01-31,TV,3
+anger,2020-01-31,Social,2
+anger,2020-01-31,Memorial,1
+anger,2020-04-30,Others,30375
+anger,2020-04-30,COVID-19,478
+anger,2020-04-30,Politics,96
+anger,2020-04-30,Medicine,75
+anger,2020-04-30,Sports,4
+anger,2020-04-30,TV,4
+anger,2020-04-30,War,3
+anger,2020-04-30,Social Media,1
+anger,2020-07-31,Others,34844
+anger,2020-07-31,Politics,334
+anger,2020-07-31,COVID-19,214
+anger,2020-07-31,Medicine,91
+anger,2020-07-31,Social Media,4
+anger,2020-07-31,War,3
+anger,2020-07-31,Sports,2
+anger,2020-07-31,Memorial,1
+anger,2020-10-31,Others,37981
+anger,2020-10-31,Politics,390
+anger,2020-10-31,COVID-19,191
+anger,2020-10-31,Medicine,61
+anger,2020-10-31,Sports,6
+anger,2020-10-31,Social Media,5
+anger,2020-10-31,War,4
+anger,2021-01-31,Others,38796
+anger,2021-01-31,Politics,219
+anger,2021-01-31,COVID-19,95
+anger,2021-01-31,Medicine,75
+anger,2021-01-31,Social,20
+anger,2021-01-31,Sports,5
+anger,2021-01-31,Memorial,2
+anger,2021-01-31,Social Media,2
+anger,2021-01-31,War,2
+anger,2021-04-30,Others,18569
+anger,2021-04-30,Medicine,109
+anger,2021-04-30,COVID-19,69
+anger,2021-04-30,Politics,41
+anger,2021-04-30,Social Media,14
+anger,2021-07-31,Others,14368
+anger,2021-07-31,Medicine,83
+anger,2021-07-31,COVID-19,39
+anger,2021-07-31,Politics,30
+anger,2021-07-31,Medical Conference,8
+anger,2021-07-31,Social Media,8
+anger,2021-07-31,Memorial,1
+anger,2021-07-31,Social,1
+anger,2021-10-31,Others,16732
+anger,2021-10-31,Politics,142
+anger,2021-10-31,Medicine,100
+anger,2021-10-31,COVID-19,70
+anger,2021-10-31,Social Media,4
+anger,2021-10-31,Sports,4
+anger,2021-10-31,Law,1
+anger,2021-10-31,Memorial,1
+anger,2021-10-31,Social,1
+anger,2022-01-31,Others,15871
+anger,2022-01-31,COVID-19,71
+anger,2022-01-31,Medicine,50
+anger,2022-01-31,Sports,15
+anger,2022-01-31,Politics,14
+anger,2022-01-31,Social,12
+anger,2022-01-31,Medical Conference,6
+anger,2022-01-31,Social Media,4
+anger,2022-01-31,Law,3
+anger,2022-01-31,Memorial,1
+anger,2022-01-31,War,1
+anger,2022-04-30,Others,16682
+anger,2022-04-30,War,115
+anger,2022-04-30,Medicine,37
+anger,2022-04-30,Politics,30
+anger,2022-04-30,COVID-19,25
+anger,2022-04-30,Medical Conference,3
+anger,2022-04-30,Memorial,1
+anger,2022-04-30,Social Media,1
+anger,2022-07-31,Others,7746
+anger,2022-07-31,Law,39
+anger,2022-07-31,Medicine,16
+anger,2022-07-31,Politics,13
+anger,2022-07-31,War,9
+anger,2022-07-31,Disasters,6
+anger,2022-07-31,COVID-19,4
+anger,2022-07-31,Social,3
+anger,2022-07-31,Social Media,2
+anger,2022-07-31,Medical Conference,1
+fear,2019-01-31,Others,6685
+fear,2019-01-31,Medicine,118
+fear,2019-01-31,Politics,34
+fear,2019-01-31,TV,9
+fear,2019-01-31,Medical Conference,4
+fear,2019-01-31,War,3
+fear,2019-01-31,Sports,2
+fear,2019-01-31,Memorial,1
+fear,2019-01-31,Social,1
+fear,2019-04-30,Others,15486
+fear,2019-04-30,Medicine,365
+fear,2019-04-30,Politics,37
+fear,2019-04-30,Medical Conference,33
+fear,2019-04-30,Social,14
+fear,2019-04-30,TV,9
+fear,2019-04-30,COVID-19,6
+fear,2019-04-30,War,3
+fear,2019-07-31,Others,15815
+fear,2019-07-31,Medicine,264
+fear,2019-07-31,Social,6
+fear,2019-07-31,TV,6
+fear,2019-07-31,Politics,5
+fear,2019-07-31,Medical Conference,2
+fear,2019-07-31,Memorial,1
+fear,2019-07-31,War,1
+fear,2019-10-31,Others,18191
+fear,2019-10-31,Medicine,176
+fear,2019-10-31,Disasters,44
+fear,2019-10-31,Social,26
+fear,2019-10-31,Politics,14
+fear,2019-10-31,War,3
+fear,2019-10-31,COVID-19,1
+fear,2019-10-31,Sports,1
+fear,2019-10-31,TV,1
+fear,2020-01-31,Others,17679
+fear,2020-01-31,Medicine,210
+fear,2020-01-31,COVID-19,72
+fear,2020-01-31,Sports,10
+fear,2020-01-31,Social,9
+fear,2020-01-31,Medical Conference,5
+fear,2020-01-31,Politics,5
+fear,2020-01-31,War,3
+fear,2020-01-31,TV,2
+fear,2020-04-30,Others,46569
+fear,2020-04-30,COVID-19,7189
+fear,2020-04-30,Medicine,350
+fear,2020-04-30,Politics,17
+fear,2020-04-30,TV,2
+fear,2020-04-30,Social,1
+fear,2020-04-30,Social Media,1
+fear,2020-07-31,Others,33557
+fear,2020-07-31,COVID-19,3016
+fear,2020-07-31,Medicine,172
+fear,2020-07-31,Politics,42
+fear,2020-07-31,War,3
+fear,2020-07-31,Social,1
+fear,2020-07-31,Social Media,1
+fear,2020-10-31,Others,32051
+fear,2020-10-31,COVID-19,1981
+fear,2020-10-31,Medicine,134
+fear,2020-10-31,Politics,37
+fear,2020-10-31,Sports,1
+fear,2021-01-31,Others,29700
+fear,2021-01-31,COVID-19,1686
+fear,2021-01-31,Medicine,135
+fear,2021-01-31,Politics,20
+fear,2021-01-31,Social,4
+fear,2021-01-31,War,2
+fear,2021-01-31,Social Media,1
+fear,2021-04-30,Others,19619
+fear,2021-04-30,COVID-19,883
+fear,2021-04-30,Medicine,151
+fear,2021-04-30,Politics,11
+fear,2021-04-30,Social,7
+fear,2021-04-30,War,4
+fear,2021-04-30,Memorial,1
+fear,2021-04-30,Social Media,1
+fear,2021-07-31,Others,16283
+fear,2021-07-31,COVID-19,639
+fear,2021-07-31,Medicine,177
+fear,2021-07-31,Medical Conference,6
+fear,2021-07-31,Social,4
+fear,2021-07-31,Memorial,2
+fear,2021-07-31,Politics,2
+fear,2021-07-31,Social Media,2
+fear,2021-10-31,Others,20764
+fear,2021-10-31,COVID-19,800
+fear,2021-10-31,Medicine,198
+fear,2021-10-31,Politics,18
+fear,2021-10-31,Medical Conference,5
+fear,2021-10-31,Social Media,2
+fear,2021-10-31,War,2
+fear,2021-10-31,Law,1
+fear,2021-10-31,Sports,1
+fear,2022-01-31,Others,18356
+fear,2022-01-31,COVID-19,747
+fear,2022-01-31,Medicine,103
+fear,2022-01-31,Medical Conference,20
+fear,2022-01-31,Social,4
+fear,2022-01-31,Politics,3
+fear,2022-01-31,Music,2
+fear,2022-01-31,Social Media,2
+fear,2022-01-31,Sports,1
+fear,2022-01-31,War,1
+fear,2022-04-30,Others,16440
+fear,2022-04-30,COVID-19,228
+fear,2022-04-30,War,184
+fear,2022-04-30,Medicine,52
+fear,2022-04-30,Medical Conference,12
+fear,2022-04-30,Social,9
+fear,2022-04-30,Politics,3
+fear,2022-07-31,Others,5892
+fear,2022-07-31,COVID-19,76
+fear,2022-07-31,Medicine,39
+fear,2022-07-31,War,12
+fear,2022-07-31,Law,7
+fear,2022-07-31,Medical Conference,7
+fear,2022-07-31,Disasters,3
+fear,2022-07-31,Politics,2
+fear,2022-07-31,Social Media,1
