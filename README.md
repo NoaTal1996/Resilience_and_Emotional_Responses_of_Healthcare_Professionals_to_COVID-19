@@ -89,8 +89,7 @@ This CSV file contains daily COVID-19 data for the United States, extracted from
 - `weekly_hosp_admissions`, `weekly_icu_admissions`: New weekly hospital and ICU admissions  
 - Demographics and healthcare capacity: `life_expectancy`, `hospital_beds_per_thousand`, `male_smokers`, etc.  
 - Excess mortality estimates: `excess_mortality_cumulative`, `excess_mortality_per_million`, etc.
-📥 [Download Data (Google Drive)]([https://drive.google.com/file/d/1OtI9ZQOkX3xgTiNTQdRoUHUsmPz7l3IP/view?usp=sharing](https://drive.google.com/file/d/15Gv8XX5FgwJpn15vikh9NyIa2W127yyY/view?usp=sharing))
-
+📥 [Download Data (Google Drive)](https://drive.google.com/file/d/15Gv8XX5FgwJpn15vikh9NyIa2W127yyY/view?usp=sharin)
 
 
 
