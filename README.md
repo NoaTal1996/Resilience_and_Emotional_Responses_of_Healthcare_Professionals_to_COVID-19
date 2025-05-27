@@ -72,7 +72,6 @@ This CSV file contains daily COVID-19 data for the United States, extracted from
 - Demographics and healthcare capacity: `life_expectancy`, `hospital_beds_per_thousand`, `male_smokers`, etc.  
 - Excess mortality estimates: `excess_mortality_cumulative`, `excess_mortality_per_million`, etc.
 
-Note: Some fields contain missing values (NaN), especially in early stages of the pandemic.
 
 
 
