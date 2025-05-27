@@ -22,9 +22,9 @@ The data/Fig_2 folder contains data used to generate Figure 2 in the main paper.
 
 Both files include emotion scores aggregated by pandemic phase (mean, standard deviation, 95% confidence interval) and number of unique users per phase.
 
-hcp_stats_graph2.csv : Data for HCPs
+`hcp_stats_graph2.csv` : Data for HCPs
 
-nonhcp_stats_graph2.csv : Data for the non-HCPs
+`nonhcp_stats_graph2.csv` : Data for the non-HCPs
 
 ### Fig 3: Correlation Between Emotions and Pandemic Progression
 
