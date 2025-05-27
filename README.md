@@ -30,9 +30,9 @@ Both files include emotion scores aggregated by pandemic phase (mean, standard d
 
 The `data/Fig_3` folder contains data used to generate Figure 3 in the main paper.
 
-Each `.pkl` file contains **weekly averages** of six basic emotions—**joy, sadness, anger, surprise, disgust, and fear**—for each population group:
-- `weekly_stats_data_HCPs.pkl`: Data for HCPs
-- `weekly_stats_data_NonHCPs.pkl`: Data for the non-HCP
+Each `.csv` file contains **weekly averages** of six basic emotions—**joy, sadness, anger, surprise, disgust, and fear**—for each population group:
+- `weekly_stats_data_HCPs.csv`: Data for HCPs
+- `weekly_stats_data_NonHCPs.csv`: Data for the non-HCP
 
 The data is indexed by ISO week start date (`date`) and includes the following columns:
 - `avg_joy`
