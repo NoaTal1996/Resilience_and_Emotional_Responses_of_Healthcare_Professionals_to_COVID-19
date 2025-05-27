@@ -44,20 +44,25 @@ The data is indexed by ISO week start date (`date`) and includes the following c
 
 These files were used to analyze the **correlation between population-level emotions and the progression of the COVID-19 pandemic** on a weekly basis.
 
-
 ## Fig 4: Hashtag Category Trends by Emotion
 
 The `data/Fig_4` folder contains data used to generate Figure 4 in the main paper.
 
-Each file is a pickled Python dictionary, where:
-- The **keys** are emotions: `joy`, `sadness`, `anger`, `fear`  
-- The **values** are DataFrames containing tweet counts grouped by `date` and `category`
+Each file is a single CSV file containing aggregated tweet counts from the top 10% most emotionally expressive tweets.  
+The data is grouped by `emotion`, `date`, and `category`, with a corresponding count of tweets.
 
-These counts represent the number of tweets in each category extracted from the top 10% most emotionally expressive tweets for that emotion.
+### File Format
+Each row in the CSV contains:
 
-### Files:
-- `category_non_hcp.pkl`: Dictionary for the non-HCPs 
-- `category_hcp.pkl`: Dictionary for HCPs
+- `emotion`: One of the four analyzed emotions – `joy`, `sadness`, `anger`, or `fear`  
+- `date`: The date of the aggregated tweets (monthly)  
+- `category`: The hashtag category assigned to the tweet  
+- `count`: Number of tweets in that emotion-category-date combination  
+
+### Files
+
+- `category_hcp.csv`: Emotion-category trends for HCPs  
+- `category_non_hcp.csv`: Emotion-category trends for the non-HCPs
 
 ### 📊 Cohen's d Effect Sizes by Phase and Emotion
 
