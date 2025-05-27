@@ -66,20 +66,21 @@ Each row in the CSV contains:
 
 ### 📊 Cohen's d Effect Sizes by Phase and Emotion
 
-The `data/Cohen_d` contains aggregated data used to compute **Cohen's d effect sizes** for emotional expressions (joy, sadness, anger, fear, surprise, disgust) across different COVID-19 phases. The effect sizes quantify the magnitude of emotional change relative to the baseline period ("Before COVID Phases").
+The `data/Cohen_d` folder contains aggregated data used to compute **Cohen's d effect sizes** for emotional expressions (joy, sadness, anger, fear, surprise, disgust) across different COVID-19 phases. The effect sizes quantify the magnitude of emotional change relative to the baseline period ("Before COVID Phases").
 
-Each `.pkl` file contains a `pandas.DataFrame` with the following columns:
+Each file is a CSV file containing a table with the following columns:
 
-- `phase`: One of the defined study periods (e.g., Phase 1, Phase 2, etc.).
-- `unique_users`: Number of unique users per phase.
-- `<emotion>_mean`, `<emotion>_std`: Mean and standard deviation of each emotion.
-- `<emotion>_95ci`: 95% confidence interval for the emotion score (tuple).
-- `<emotion>_cohen_d`: Cohen's d effect size, comparing each phase to the baseline.
-- `<emotion>_cohen_d_ci`: 95% confidence interval for the Cohen's d value (tuple).
+- `phase`: One of the defined study periods (e.g., Phase 1, Phase 2, etc.)
+- `unique_users`: Number of unique users per phase
+- `<emotion>_mean`, `<emotion>_std`: Mean and standard deviation of each emotion
+- `<emotion>_95ci`: 95% confidence interval for the emotion score (as a tuple)
+- `<emotion>_cohen_d`: Cohen's d effect size, comparing each phase to the baseline
+- `<emotion>_cohen_d_ci`: 95% confidence interval for the Cohen's d value (as a tuple)
 
-**Files:**
-- `hcp_stats_cohend.pkl`: Statistics and effect sizes for the HCP population.
-- `nonhcp_cohend.pkl`: Statistics and effect sizes for the non-HCP population.
+### Files:
+- `hcp_cohend.csv`: Statistics and effect sizes for the HCP 
+- `nonhcp_cohend.csv`: Statistics and effect sizes for the non-HCP
+
 
 
 ### 🇺🇸 `owid-covid-data.csv` – U.S. COVID-19 Time Series Data
